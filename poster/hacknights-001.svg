@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="148mm"
+   height="210mm"
+   viewBox="0 0 148 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel unknown"
+   sodipodi:docname="hacknights-001.svg"
+   enable-background="new"
+   inkscape:export-filename="/home/oleg/Dropbox/DINAcon/hacknights-001.svg.png"
+   inkscape:export-xdpi="600.04474"
+   inkscape:export-ydpi="600.04474">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4684">
+      <stop
+         style="stop-color:#212419;stop-opacity:1"
+         offset="0"
+         id="stop4680" />
+      <stop
+         style="stop-color:#2a3318;stop-opacity:1"
+         offset="1"
+         id="stop4682" />
+    </linearGradient>
+    <clipPath
+       id="clipPath4283"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4281"
+         d="M 0,353.165 H 357.32 V 0 H 0 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter4370">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix4366" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 1.1 0 "
+         result="color2"
+         id="feColorMatrix4368" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Sharpen More"
+       id="filter4678"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3">
+      <feColorMatrix
+         type="luminanceToAlpha"
+         result="colormatrix1"
+         id="feColorMatrix4658" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(160,236,8)"
+         result="flood1"
+         id="feFlood4660" />
+      <feComposite
+         in2="colormatrix1"
+         operator="out"
+         result="composite1"
+         id="feComposite4662" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(26,26,26)"
+         result="flood2"
+         id="feFlood4664" />
+      <feComposite
+         in2="colormatrix1"
+         result="composite2"
+         operator="in"
+         id="feComposite4666" />
+      <feComposite
+         in="composite2"
+         in2="composite1"
+         k2="1"
+         k3="1"
+         operator="arithmetic"
+         result="composite3"
+         id="feComposite4668" />
+      <feColorMatrix
+         in="composite3"
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix4670" />
+      <feComposite
+         in="colormatrix2"
+         in2="composite3"
+         operator="arithmetic"
+         k2="0"
+         result="composite4"
+         id="feComposite4672" />
+      <feBlend
+         in="composite4"
+         in2="composite3"
+         mode="normal"
+         result="blend"
+         id="feBlend4674" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite4676"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4389" />
+      <feConvolveMatrix
+         id="feConvolveMatrix4391"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend4393"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4684"
+       id="radialGradient4690"
+       cx="44.409584"
+       cy="169.95235"
+       fx="44.409584"
+       fy="169.95235"
+       r="74.000778"
+       gradientTransform="matrix(-0.83242223,-0.0817219,0.03816204,-1.4754093,147.59601,392.87236)"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       id="clipPath4283-2"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4281-5"
+         d="M 0,353.165 H 357.32 V 0 H 0 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Electrize"
+       id="filter5446">
+      <feGaussianBlur
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur5436" />
+      <feComponentTransfer
+         in="blur"
+         result="component"
+         id="feComponentTransfer5444">
+        <feFuncR
+           type="table"
+           tableValues="0 1 0 1 0 1 0"
+           id="feFuncR5438" />
+        <feFuncG
+           type="table"
+           tableValues="0 1 0 1 0 1 0"
+           id="feFuncG5440" />
+        <feFuncB
+           type="table"
+           tableValues="0 1 0 1 0 1 0"
+           id="feFuncB5442" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Electrize"
+       id="filter5446-5">
+      <feGaussianBlur
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur5436-7" />
+      <feComponentTransfer
+         in="blur"
+         result="component"
+         id="feComponentTransfer5444-4">
+        <feFuncR
+           type="table"
+           tableValues="0 1 0 1 0 1 0"
+           id="feFuncR5438-9" />
+        <feFuncG
+           type="table"
+           tableValues="0 1 0 1 0 1 0"
+           id="feFuncG5440-9" />
+        <feFuncB
+           type="table"
+           tableValues="0 1 0 1 0 1 0"
+           id="feFuncB5442-4" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5705">
+      <feBlend
+         inkscape:collect="always"
+         mode="luminosity"
+         in2="BackgroundImage"
+         id="feBlend5707" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter5736">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix5732" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 1.1 0 "
+         result="color2"
+         id="feColorMatrix5734" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Invert"
+       id="filter5736-5">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix5732-9" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 1.1 0 "
+         result="color2"
+         id="feColorMatrix5734-3" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4352">
+      <feBlend
+         inkscape:collect="always"
+         mode="luminosity"
+         in2="BackgroundImage"
+         id="feBlend4354" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5705-3">
+      <feBlend
+         inkscape:collect="always"
+         mode="luminosity"
+         in2="BackgroundImage"
+         id="feBlend5707-6" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4385">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.30000019;stroke-opacity:0.61176471;filter:url(#filter5705-3)"
+         id="rect4387"
+         width="496.98218"
+         height="296.97482"
+         x="30.860748"
+         y="4.2844329"
+         inkscape:export-xdpi="300.09256"
+         inkscape:export-ydpi="300.09256"
+         ry="0"
+         transform="matrix(0.30812331,0,-0.02235758,0.30812331,-4.9003155,3.9517367)" />
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="126.63181"
+     inkscape:cy="399.65416"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer4"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <rect
+       style="fill:url(#radialGradient4690);fill-opacity:1;stroke-width:0.80219728"
+       id="rect4616"
+       width="148.00156"
+       height="210.57042"
+       x="0.16913033"
+       y="86.461517" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="filter:url(#filter4352)">
+    <image
+       sodipodi:absref="/home/oleg/Dropbox/DINAcon/2017-09-11 08.16.44-1-crop.jpg"
+       xlink:href="2017-09-11 08.16.44-1-crop.jpg"
+       mask="url(#mask4385)"
+       transform="matrix(0.85869301,0,0.06230718,0.85869301,3.9616451,-3.3933287)"
+       style="fill:#000000;fill-opacity:1;filter:url(#filter4678);opacity:0.9"
+       id="image4346"
+       preserveAspectRatio="none"
+       height="115.39935"
+       width="147.58244"
+       x="0.16913036"
+       y="-0.25402832" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="PC"
+     style="filter:url(#filter5705);opacity:1">
+    <g
+       id="g5182"
+       style="opacity:0.9;filter:url(#filter5736)"
+       transform="translate(-0.55619667,26.350754)"
+       inkscape:export-xdpi="300.09256"
+       inkscape:export-ydpi="300.09256">
+      <image
+         sodipodi:absref="/home/oleg/Dropbox/DINAcon/laptop-svg-6.png"
+         xlink:href="laptop-svg-6.png"
+         id="image5072"
+         preserveAspectRatio="none"
+         height="132.95619"
+         width="132.95619"
+         x="8.4494743"
+         y="41.029079"
+         style="fill:#ffd5d5;filter:url(#filter5446-5)" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Info"
+     style="opacity:1">
+    <rect
+       style="opacity:0.9;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13770843;stroke-opacity:0.61176471"
+       id="rect5777"
+       width="94.079628"
+       height="60.946335"
+       x="27.30759"
+       y="88.798569"
+       inkscape:export-xdpi="300.09256"
+       inkscape:export-ydpi="300.09256" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5028"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:12.09448814px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,9.4273633,-21.581711)"
+       inkscape:export-xdpi="300.09256"
+       inkscape:export-ydpi="300.09256"><flowRegion
+         id="flowRegion5030"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:12.09448814px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+           id="rect5032"
+           width="333.24948"
+           height="226.08327"
+           x="75.879326"
+           y="419.45807"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:12.09448814px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara5034"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:18.89763832px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">The <flowSpan
+   style="fill:#4cff3a;fill-opacity:1"
+   id="flowSpan5448">Hacknight</flowSpan> is a way to <flowSpan
+   style="fill:#0bffa2;fill-opacity:1"
+   id="flowSpan5462">learn</flowSpan> about and <flowSpan
+   style="fill:#ff19d8;fill-opacity:1"
+   id="flowSpan5472">contribute</flowSpan> to Open Source and Open Data in a hands-on way for <flowSpan
+   style="fill:#fff024;fill-opacity:1"
+   id="flowSpan5482">participants</flowSpan> at all levels of <flowSpan
+   style="fill:#e36565;fill-opacity:1"
+   id="flowSpan5492">technical</flowSpan>.<flowSpan
+   style="fill:#9590ff;fill-opacity:1"
+   id="flowSpan5500">skill</flowSpan>(|&gt;)</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:18.89763832px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="flowPara5088" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:18.89763832px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="flowPara5086">Committers of <flowSpan
+   style="fill:#02e3fd;fill-opacity:1"
+   id="flowSpan5522">DINAcon</flowSpan> projects will guide you through to your first <flowSpan
+   style="fill:#61e495;fill-opacity:1"
+   id="flowSpan5530">installation</flowSpan>, <flowSpan
+   style="fill:#ffcd1d;fill-opacity:1"
+   id="flowSpan5544">bug report</flowSpan>, <flowSpan
+   style="fill:#ff7131;fill-opacity:1"
+   id="flowSpan5558">pen test</flowSpan>, or <flowSpan
+   style="fill:#ff33f9;fill-opacity:1"
+   id="flowSpan5564">code commit</flowSpan>!</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:18.89763832px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="flowPara5076" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:18.89763832px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="flowPara5161">Guidelines: <flowSpan
+   style="fill:#ff91b6;fill-opacity:1"
+   id="flowSpan5570">Be Excellent to each other</flowSpan>.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333397px;line-height:18.89763832px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="flowPara5167">Bring a <flowSpan
+   style="fill:#15e70f;fill-opacity:1"
+   id="flowSpan4723">laptop</flowSpan>. Refreshments provided.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:18.89763832px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="flowPara5171">Start: <flowSpan
+   style="font-weight:bold"
+   id="flowSpan5584">18:00</flowSpan> @ <flowSpan
+   style="fill:#fef922;fill-opacity:1"
+   id="flowSpan5592">Welle7</flowSpan> Bern.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Logo">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.30391121px;line-height:1.25;font-family:Carlito;-inkscape-font-specification:'Carlito, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#9fea18;fill-opacity:1;stroke:none;stroke-width:0.18259722;"
+       x="41.734425"
+       y="199.65219"
+       id="text4697"><tspan
+         sodipodi:role="line"
+         id="tspan4695"
+         x="41.734425"
+         y="199.65219"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.30391121px;font-family:Carlito;-inkscape-font-specification:'Carlito, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9fea18;fill-opacity:1;stroke-width:0.18259722;">hacknight.dinacon.ch</tspan></text>
+    <g
+       id="g4400"
+       style="opacity:0.5"
+       transform="translate(1.0583333)">
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4382"
+         d="m 111.10456,194.21638 c 4.16133,-1.99235 -0.18637,0.17746 2.26734,-1.22465 0.824,-0.47085 2.8434,-1.44138 2.8434,-1.44138"
+         style="fill:none;stroke:#828282;stroke-width:1.06500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#828282;stroke-width:1.06500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 112.01765,197.79309 c 4.60949,0.19691 -0.2479,0.0691 2.57689,-0.0155 0.94862,-0.0284 3.18723,0.0639 3.18723,0.0639"
+         id="path4384"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#828282;stroke-width:1.06500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 115.93121,203.97374 c -4.16133,-1.99235 0.18637,0.17746 -2.26734,-1.22465 -0.824,-0.47085 -2.8434,-1.44138 -2.8434,-1.44138"
+         id="path4386"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#828282;stroke-width:1.06500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 33.151442,194.21638 c -4.161327,-1.99235 0.18637,0.17746 -2.26734,-1.22465 -0.823997,-0.47085 -2.843397,-1.44138 -2.843397,-1.44138"
+         id="path4388"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4390"
+         d="m 32.238352,197.79309 c -4.609487,0.19691 0.2479,0.0691 -2.576887,-0.0155 -0.94862,-0.0284 -3.18723,0.0639 -3.18723,0.0639"
+         style="fill:none;stroke:#828282;stroke-width:1.06500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4392"
+         d="m 28.324795,203.97374 c 4.161327,-1.99235 -0.18637,0.17746 2.26734,-1.22465 0.823997,-0.47085 2.843397,-1.44138 2.843397,-1.44138"
+         style="fill:none;stroke:#828282;stroke-width:1.06500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
