@@ -1,4 +1,4 @@
-The **DINAcon HACKnight** is a way to learn about and contribute to Open Source projects in a hands-on way. This event is open to all, and caters to all levels of technical skill. Our focus will be on all projects nominated and showcased at [DINAcon 2017](http://dinacon.ch/programme), with committers and experts available on hand to guide you through to your first bug report or code commit! [All Challenges posted here](/event/1#top) are announced at the start. Download the [official wallpaper](https://nextcloud.fdn.iwi.unibe.ch/index.php/s/sCGmVk25fwoINkV?path=%2Fwallpaper#/wallpaper/DINAcon_Hacknight.svg.jpg) and get HACKing!
+The **DINAcon HACKnight** is a way to learn about and contribute to Open Source projects in a hands-on way. This event is open to all, and caters to all levels of technical skill. Our focus will be on all projects nominated and showcased at [DINAcon 2017](http://dinacon.ch/programme), with committers and experts available on hand to guide you through to your first bug report or code commit! [All Challenges posted here](/event/1#top) are announced at the start. Download the [official wallpaper](wallpaper) and get HACKing!
 
 #### Format
 
